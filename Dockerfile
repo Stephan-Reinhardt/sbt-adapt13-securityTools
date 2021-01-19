@@ -14,7 +14,6 @@ ENV PATH /sbt/bin:$PATH
 RUN apk add --no-cache \
 		ca-certificates \
 		openssh-client \
-		openjdk8 \
 		curl \
 		bash \
     nmap
