@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk8:alpine-slim
+FROM adoptopenjdk/openjdk13:alpine-slim
 
 ENV SCALA_VERSION 2.13.4
 ENV SBT_VERSION 1.3.13
